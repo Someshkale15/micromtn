@@ -1,8 +1,8 @@
 Establishing Technical Literacy in Journalism and the Humanities
 Pedagogy
 
-Establishing Technical Literacy in Journalism and the Humanities
-------------------------------------------------
+ Establishing Technical Literacy in Journalism and the Humanities
+ --------------------------------------------------------------
 
 <p>
 Dave Winer posted a <a href="http://scripting.com/stories/2011/12/13/about2012ForNieman.html#p11432">short article</a> whereupon he lamented lack of sophistication and erudition amongst technical journalists. In particular, he notes that many journalists have are not cognizant of how exactly most new technology is designed and created, citing Steve Jobs as an example of the go-to “lone creator” journalists use when discussing Apple products.</p>
